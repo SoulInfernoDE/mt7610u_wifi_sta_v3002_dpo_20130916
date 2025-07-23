@@ -1,4 +1,4 @@
-# mt7610u_wifi_sta_v3002_dpo_20130916
+# mt7610u_wifi_sta_v3002_dpo_20130916 (deprecated)
 Modified usb wifi driver for TP-Link TL-WDN5200 AC600 T2U and Cisco Linksys AE6000 / AC580 on Linux. 
 1. modified:   common/rtusb_dev_id.c 
  * add product id for TL-WDN5200
